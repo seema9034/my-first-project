@@ -1,1 +1,9 @@
-introduction to backend
+# introduction to backend
+## introduction to frontend
+### introduction to web designing
+**bold**\
+__bold__\
+*italic*\
+_italic_\
+<ins>underline<ins>\
+~~strikethrough~~
